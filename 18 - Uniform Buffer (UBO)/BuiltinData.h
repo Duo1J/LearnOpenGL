@@ -1,6 +1,9 @@
 #pragma once
 
+#include <vector>
 #include <string>
+
+#include <glm.hpp>
 
 // √Ê∆¨∂•µ„
 float quadVertices[] = {
